@@ -3,11 +3,13 @@
 <p align="center">Casablanca, Morocco 🇲🇦</p>
 
 <p align="center">
-  <a href="https://ahmedbassoul1.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1814?style=for-the-badge&logo=googlechrome&logoColor=f1ece1" alt="Portfolio"/></a>
-  <a href="mailto:bassoulahmed@gmail.com"><img src="https://img.shields.io/badge/Email-8a1c2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/ahmed-bassoul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/AhmedBassoul1"><img src="https://img.shields.io/badge/GitHub-1a1814?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="tel:+212770805909"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://ahmedbassoul1.github.io/my-portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-1a1814?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Portfolio"/>
+</a>&nbsp;
+  <a href="mailto:bassoulahmed@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ahmed-bassoul"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/AhmedBassoul1"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://wa.me/212770805909"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
 ---
@@ -146,11 +148,6 @@ I hold a **Master's in Information Systems & Intelligent Systems** from **INSEA 
 ---
 
 ### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedBassoul1&show_icons=true&hide_border=true&title_color=8a1c2b&icon_color=8a1c2b&text_color=1a1814&bg_color=f1ece1&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBassoul1&layout=compact&hide_border=true&title_color=8a1c2b&text_color=1a1814&bg_color=f1ece1" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedBassoul1&hide_border=true&background=F1ECE1&ring=8A1C2B&fire=8A1C2B&currStreakLabel=1A1814&sideLabels=1A1814&currStreakNum=1A1814&sideNums=1A1814&dates=7A7166" height="170"/>
