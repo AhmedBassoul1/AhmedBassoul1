@@ -132,6 +132,7 @@ I hold a **Master's in Information Systems & Intelligent Systems** from **INSEA 
 
 | Period | Role | Company |
 |--------|------|---------|
+| 2025 — 2026 | **Full Stack/ AI Developer** | Cylindrique *(Freelance)* |
 | 2025 — 2026 | **AI Agent Developer** | Mendo *(Freelance)* |
 | 2025 | **BI Analyst** | AGH Data Agency Holding *(Internship)* |
 | 2024 | **UBA Engineer** | DataProtect *(Final-Year Internship)* |
