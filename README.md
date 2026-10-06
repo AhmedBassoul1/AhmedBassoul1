@@ -158,6 +158,8 @@ I hold a **Master's in Information Systems & Intelligent Systems** from **INSEA 
 
 <p align="center"><em>"Trained as a mathematician, fell for machine learning — now teaching machines to read, retrieve, and reason."</em></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedBassoul1&color=8a1c2b&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
+<div align="center">
+
+[![Profile views](https://komarev.com/ghpvc/?username=AhmedBassoul1&color=8a1c2b&style=flat-square&label=Profile+Views)](https://github.com/AhmedBassoul1)
+
+</div>
