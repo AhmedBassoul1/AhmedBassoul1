@@ -1,6 +1,6 @@
 <h1 align="center">Ahmed Bassoul</h1>
 <p align="center"><strong>Data Scientist · Machine Learning Engineer · AI Agent Builder</strong></p>
-<p align="center">Casablanca, Morocco 🇲🇦</p>
+<p align="center">Tangier, Morocco 🇲🇦</p>
 
 <p align="center">
 <a href="https://ahmedbassoul1.github.io/my-portfolio/">
