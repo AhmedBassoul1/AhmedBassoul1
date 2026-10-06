@@ -129,22 +129,23 @@ I hold a **Master's in Information Systems & Intelligent Systems** from **INSEA 
 ---
 
 ### Work Experience
+<div align="center">
 
 | Period | Role | Company |
 |--------|------|---------|
-| 2026/02 — present | **AI Agent Developer** | Mendo *(Freelance)* |
+| 2026/02 - present | **AI Agent Developer** | Mendo *(Freelance)* |
 | 2026/06 - 2026/09 | **Full Stack/ AI Developer** | Cylindrique *(Freelance)* |
 | 2025/09 - 2025/12 | **BI Analyst** | AGH Data Agency Holding *(Internship)* |
 | 2025/02 - 2025/08 | **UBA Engineer** | DataProtect *(Final-Year Internship)* |
-
+</div>
 ---
 
 ### Education & Certifications
 
-🎓 **Master M2SI** — INSEA, Rabat *(2023 — 2025)*
-🎓 **Bachelor SMI** — FSDM, Fez *(2020 — 2023)*
-📜 **Machine Learning Specialization** — Stanford *(2024)*
-📜 **Data Analytics** — Google *(2024)*
+🎓 **Master M2SI** — INSEA, Rabat *(2023 — 2025)* <br>
+🎓 **Bachelor SMI** — FSDM, Fez *(2020 — 2023)* <br>
+📜 **Machine Learning Specialization** — Stanford *(2024)* <br>
+📜 **Data Analytics** — Google *(2024)* <br>
 
 ---
 
@@ -156,7 +157,7 @@ I hold a **Master's in Information Systems & Intelligent Systems** from **INSEA 
 
 ---
 
-<p align="center"><em>"Trained as a mathematician, fell for machine learning — now teaching machines to read, retrieve, and reason."</em></p>
+<p align="center"><em>"Trained as a mathematician, fell for machine learning, now teaching machines to read, retrieve, and reason."</em></p>
 
 <div align="center">
 
